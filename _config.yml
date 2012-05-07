@@ -1,0 +1,59 @@
+permalink: /:categories/:year/:month/:day/:title 
+exclude: [ 'slides', ".rvmrc", ".rbenv-version", "readme.md", "Rakefile", "changelog.md"]
+markdown: maruku
+pygments: true
+lsi: false
+
+title: ProjectSite
+tagline: no sights for you
+# backslash 
+base_url: /
+# replace with your own username and projectname in this url
+my_url: http://shareme.github.com/ProjectSite
+
+keywords: Jekyll, Github, gh-pages, Liquid
+description: A set of Jekyll tempaltes for your projects using github gh-pages
+
+author:
+  name: Fred Grott
+  email: fred.grott@gmail.com
+  github: shareme
+  gplus: https://plus.google.com/u/0/114301140286672625486/about
+  companygplus:
+    
+google:
+  tracking_id: UA-31370697-1
+addthis:
+  pub_id: ra-4ea7e18b3e78fcd8
+tynt:
+  tracking_id: 
+
+archive_path: /archive.html
+categories_path: /categories.html
+tags_path: /tags.html
+
+followme:
+  angellist: 'http://angel.co/fred-grott'
+  delicious: 'http://www.delicious.com/shareme'
+  deviantart: 'http://shareme.deviantart.com/'
+  dribbble: 'http://dribbble.com/FredGrott'
+  facebook: 'https://www.facebook.com/fred.grott?ref=tn_tnmn'
+  forrst: 'https://forrst.com/people/fredgrott'
+  googleplus: 'https://plus.google.com/u/0/114301140286627625486/about'
+  linkedin: 'http://www.linkedin/in/shareme'
+  quora: 'http://www.quora.com/Fred-Grott'
+  reddit: 'http://www.reddit.com/user/fredgrott'
+  stackoverflow: 'http://stackoverflow.com/users/237740/fred-grott'
+  twitter: 'https://twitter.com/#!/fredgrott'
+  youtube: 'http://www.youtube.com/user/memine44?feature=mhee'
+  
+powered:
+  eclipse: 'http://www.eclipse.org'
+  github: 'http://github.com'
+  hacker: 'http://www.fsf.org'
+  jekyll: 'https://github.com/mojombo/jekyll'
+
+myrepos:
+  github: 'https://github.com/shareme'  
+  bitbucket: 'https://bitbucket.org/fredgrott'  
+ 
